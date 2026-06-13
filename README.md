@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tamanna 
 
-<!--
-**tamannamalik09/tamannamalik09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student at Punjabi University Patiala
 
-Here are some ideas to get you started:
+🌱 Currently learning:
+- Data Structures & Algorithms
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- DreamToLife – AI-powered dream reflection system
+- Terminal Escape Room – Text-based escape game in C
+- Number Shifting Game – Console-based puzzle game in C
+
+💡 Interests
+- Artificial Intelligence
+- Problem Solving
+- Software Development
+
+📫 Connect with me
+- LinkedIn: [Tamanna](https://www.linkedin.com/in/mnitamanna)
+
+---
+Currently learning, building projects, and getting 1% better every day ✨
