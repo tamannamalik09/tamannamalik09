@@ -4,17 +4,17 @@
 
 🌱 Currently learning:
 - Data Structures & Algorithms
-- Python
+- Problem Solving in C++
 
 🚀 Projects
 - DreamToLife – AI-powered dream reflection system
+- Study Tracker – C++ task manager with file handling, progress tracking and study timer
 - Terminal Escape Room – Text-based escape game in C
 - Number Shifting Game – Console-based puzzle game in C
 
 💡 Interests
-- Artificial Intelligence
-- Problem Solving
 - Software Development
+- Problem Solving
 
 📫 Connect with me
 - LinkedIn: [Tamanna](https://www.linkedin.com/in/mnitamanna)
