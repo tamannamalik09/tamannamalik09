@@ -6,9 +6,9 @@
 - Data Structures & Algorithms
 - Problem Solving in C++
 
-🚀 Projects
+✨ Projects
 - DreamToLife – AI-powered dream reflection system
-- Study Tracker – C++ task manager with file handling, progress tracking and study timer
+- Study Tracker – C++ task manager with file handling, progress tracking and a study timer
 - Terminal Escape Room – Text-based escape game in C
 - Number Shifting Game – Console-based puzzle game in C
 
